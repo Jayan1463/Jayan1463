@@ -318,8 +318,6 @@ const me = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayan1463/Jayan1463/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> ⚙️ *To enable the snake animation, add the [platane/snk](https://github.com/platane/snk) GitHub Action to your profile repo.*
-
 </div>
 
 ---
