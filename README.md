@@ -130,11 +130,15 @@ const mrithyunjayan = {
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Jayan1463&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4" height="175"/>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayan1463&theme=tokyonight" width="100%"/>
 </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayan1463&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4" height="175"/>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayan1463&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayan1463&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayan1463&theme=tokyonight" width="32%"/>
 </td>
 </tr>
 </table>
@@ -142,10 +146,6 @@ const mrithyunjayan = {
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jayan1463&theme=transparent&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&background=0D1117)](https://git.io/streak-stats)
-
-<br/>
-
-> 💡 *If stat cards show blank, GitHub's public stats API may be rate-limited — refresh in a moment or [self-host the cards](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).*
 
 </div>
 
