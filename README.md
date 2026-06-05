@@ -22,45 +22,31 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="middle" width="60%">
 
-```typescript
-const mrithyunjayan = {
+```ts
+const me = {
   name     : "Mrithyunjayan M",
   alias    : "Jayan1463",
-  location : "Coimbatore, Tamil Nadu 🇮🇳",
-  degree   : "B.E. Computer Science Engineering",
-  college  : "Coimbatore Institute of Technology",
-  batch    : "2024 – 2028",
+  from     : "Coimbatore, India 🇮🇳",
+  degree   : "B.E. CSE @ CIT (2024–28)",
 
-  stack: {
-    languages : ["TypeScript", "JavaScript", "Python", "C++"],
-    frontend  : ["React.js", "Next.js", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "Firebase"],
-    databases : ["Firestore", "MySQL"],
-    devOps    : ["GitHub Actions", "Vercel", "CI/CD"],
-  },
+  langs    : ["TS","JS","Python","C++"],
+  frontend : ["React","Next.js","Tailwind"],
+  backend  : ["Node","Express","Firebase"],
+  db       : ["Firestore","MySQL"],
+  devops   : ["GitHub Actions","Vercel"],
 
-  currentlyLearning: [
-    "Advanced System Design",
-    "Docker & Kubernetes",
-    "AWS Cloud Fundamentals",
-  ],
+  learning : ["System Design","Docker","AWS"],
 
-  funFact: "Shipped a full e-commerce platform in 1 month 🚀",
-
-  motto() {
-    return "Ship early. Iterate fast. Build things people use.";
-  },
+  funFact  : "Shipped e-commerce in year 1 🚀",
+  motto    : "Ship early. Build things people use.",
 };
 ```
 
 </td>
-<td valign="top" align="center" width="45%">
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="coding gif"/>
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="340" alt="line divider"/>
+<td valign="middle" align="center" width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240" alt="coding gif"/>
 </td>
 </tr>
 </table>
