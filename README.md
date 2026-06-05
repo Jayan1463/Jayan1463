@@ -20,6 +20,7 @@
 <!--  SECTION 3 · CODE-BLOCK ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 <table>
 <tr>
 <td valign="middle" width="60%">
@@ -50,6 +51,7 @@ const me = {
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
