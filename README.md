@@ -1,16 +1,276 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jayan1463/Jayan1463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 1 · HERO BANNER                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Here are some ideas to get you started:
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mrithyunjayan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Open-Source%20Builder&descAlignY=62&descSize=16)](https://github.com/Jayan1463)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 2 · TYPING HEADER                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mrithyunjayan+M!;%F0%9F%9A%80+Full-Stack+Dev+%7C+React+%2B+Next.js+%2B+TypeScript;%E2%98%81%EF%B8%8F+Cloud+Builder+%7C+Firebase+%7C+Vercel+%7C+CI%2FCD;%F0%9F%8C%B1+CS+Undergrad+%40+CIT+Coimbatore+%7C+2024-2028)](https://github.com/Jayan1463)
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 3 · CODE-BLOCK ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```typescript
+const mrithyunjayan = {
+  name        : "Mrithyunjayan M",
+  alias       : "Jayan1463",
+  location    : "Coimbatore, Tamil Nadu 🇮🇳",
+  degree      : "B.E. Computer Science Engineering",
+  college     : "Coimbatore Institute of Technology",
+  batch       : "2024 – 2028",
+
+  stack: {
+    languages  : ["TypeScript", "JavaScript", "Python", "C++"],
+    frontend   : ["React.js", "Next.js", "Tailwind CSS", "HTML5"],
+    backend    : ["Node.js", "Express.js", "Firebase"],
+    databases  : ["Firestore", "MySQL"],
+    devOps     : ["GitHub Actions", "CI/CD", "Vercel", "GitHub Pages"],
+  },
+
+  currentlyLearning : [
+    "Advanced System Design",
+    "Docker & Kubernetes",
+    "AWS Cloud Fundamentals",
+  ],
+
+  funFact : "I deployed a full e-commerce platform before my 2nd year 🚀",
+
+  motto() {
+    return "Ship early. Iterate fast. Build things people actually use.";
+  },
+};
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 4 · TECH BADGES                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6C37?style=flat-square&logo=gitpod&logoColor=white)
+
+**Databases**
+
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 5 · GITHUB STATS                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/Jayan1463">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayan1463&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayan1463&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jayan1463&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 6 · FEATURED PROJECTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🛒 NammaShop | 🎓 Smart Campus Manager | 🔍 NetScope |
+|:---:|:---:|:---:|
+| Full-scale **grocery e-commerce** platform | Campus **event & role management** system | **Network analysis** & monitoring CLI |
+| React · TypeScript · Firebase · Firestore | Firebase Auth · Firestore · Chart.js | Python · Shell Scripting |
+| Stripe · PayPal · Braintree payments | Role-based access control | Automated diagnostics |
+| Production-ready & deployed | Analytics dashboard built-in | System-level operations |
+
+</div>
+
+<br/>
+
+> 🏗️ **CI/CD Automation Pipeline** — Automated testing + deployment via GitHub Actions with multi-branch workflows deployed to GitHub Pages.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 7 · WORK EXPERIENCE TIMELINE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 💼 Experience
+
+```
+📅 2025 – Present   |  Freelance Full-Stack Developer
+                    |  📍 Remote, India
+                    |
+                    |  ✦ Shipped custom web apps for real-world clients
+                    |  ✦ Built responsive UIs with integrated cloud databases
+                    |  ✦ Owned end-to-end: auth, deployment & performance tuning
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 8 · EDUCATION                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Period |
+|:---:|:---:|:---:|
+| B.E. Computer Science Engineering | Coimbatore Institute of Technology | 2024 – 2028 |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 9 · CERTIFICATIONS & ACHIEVEMENTS                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🥇 Certification | 🏷️ Issuer |
+|---|---|
+| 🎖️ **Certified Innovation Leader (CIL)** | — |
+| 🌍 **British Council Aptis ESOL International Certificate** | British Council |
+| ⚙️ **Back-end Developer Course** | — |
+| 🌐 **HTML5 Certified** | — |
+| 🎨 **CSS3 Certified** | — |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 10 · ACTIVITY GRAPH                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayan1463&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jayan1463)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 11 · SNAKE ANIMATION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 Watch My Contributions Get Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayan1463/Jayan1463/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayan1463/Jayan1463/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayan1463/Jayan1463/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+> ⚙️ *To enable the snake animation, add the [platane/snk](https://github.com/platane/snk) GitHub Action to your profile repo.*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 12 · CONNECT / SOCIALS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrithyunjayan_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrithyunjayanm)
+[![GitHub](https://img.shields.io/badge/GitHub-Jayan1463-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayan1463)
+[![Email](https://img.shields.io/badge/Email-mrithyunjayan1463@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrithyunjayan1463@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-4CAF50?style=for-the-badge)](https://github.com/Jayan1463)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 13 · PROFILE VIEWS + FOOTER WAVE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jayan1463&color=70A5FD&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Jayan1463?label=Followers&style=flat-square&color=70A5FD)](https://github.com/Jayan1463?tab=followers)
+
+<br/>
+
+*"Ship early. Iterate fast. Build things people actually use."*
+
+</div>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/Jayan1463)
