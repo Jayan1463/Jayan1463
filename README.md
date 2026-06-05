@@ -20,40 +20,50 @@
 <!--  SECTION 3 · CODE-BLOCK ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```typescript
 const mrithyunjayan = {
-  name        : "Mrithyunjayan M",
-  alias       : "Jayan1463",
-  location    : "Coimbatore, Tamil Nadu 🇮🇳",
-  degree      : "B.E. Computer Science Engineering",
-  college     : "Coimbatore Institute of Technology",
-  batch       : "2024 – 2028",
+  name     : "Mrithyunjayan M",
+  alias    : "Jayan1463",
+  location : "Coimbatore, Tamil Nadu 🇮🇳",
+  degree   : "B.E. Computer Science Engineering",
+  college  : "Coimbatore Institute of Technology",
+  batch    : "2024 – 2028",
 
   stack: {
-    languages  : ["TypeScript", "JavaScript", "Python", "C++"],
-    frontend   : ["React.js", "Next.js", "Tailwind CSS", "HTML5"],
-    backend    : ["Node.js", "Express.js", "Firebase"],
-    databases  : ["Firestore", "MySQL"],
-    devOps     : ["GitHub Actions", "CI/CD", "Vercel", "GitHub Pages"],
+    languages : ["TypeScript", "JavaScript", "Python", "C++"],
+    frontend  : ["React.js", "Next.js", "Tailwind CSS"],
+    backend   : ["Node.js", "Express.js", "Firebase"],
+    databases : ["Firestore", "MySQL"],
+    devOps    : ["GitHub Actions", "Vercel", "CI/CD"],
   },
 
-  currentlyLearning : [
+  currentlyLearning: [
     "Advanced System Design",
     "Docker & Kubernetes",
     "AWS Cloud Fundamentals",
   ],
 
-  funFact : "I deployed a full e-commerce platform before my 2nd year 🚀",
+  funFact: "Shipped a full e-commerce platform in year 1 🚀",
 
   motto() {
-    return "Ship early. Iterate fast. Build things people actually use.";
+    return "Ship early. Iterate fast. Build things people use.";
   },
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="45%">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="coding gif"/>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="340" alt="line divider"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,14 +128,24 @@ const mrithyunjayan = {
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Jayan1463">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayan1463&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayan1463&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Jayan1463&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4" height="175"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayan1463&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4" height="175"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jayan1463&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayan1463&theme=transparent&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&background=0D1117)](https://git.io/streak-stats)
+
+<br/>
+
+> 💡 *If stat cards show blank, GitHub's public stats API may be rate-limited — refresh in a moment or [self-host the cards](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).*
 
 </div>
 
