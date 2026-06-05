@@ -47,7 +47,7 @@ const mrithyunjayan = {
     "AWS Cloud Fundamentals",
   ],
 
-  funFact: "Shipped a full e-commerce platform in year 1 🚀",
+  funFact: "Shipped a full e-commerce platform in 1 month 🚀",
 
   motto() {
     return "Ship early. Iterate fast. Build things people use.";
@@ -211,17 +211,92 @@ const mrithyunjayan = {
 <!--  SECTION 9 · CERTIFICATIONS & ACHIEVEMENTS                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🏆 Certifications & Achievements
+### 🏆 Certifications
 
 <div align="center">
 
-| 🥇 Certification | 🏷️ Issuer |
-|---|---|
-| 🎖️ **Certified Innovation Leader (CIL)** | — |
-| 🌍 **British Council Aptis ESOL International Certificate** | British Council |
-| ⚙️ **Back-end Developer Course** | — |
-| 🌐 **HTML5 Certified** | — |
-| 🎨 **CSS3 Certified** | — |
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🎨 CSS3**
+<br/>
+![Infosys](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
+<br/>
+<sub>Nov 2025 · CSS</sub>
+
+</td>
+<td align="center" width="33%">
+
+**⚡ JavaScript**
+<br/>
+![Infosys](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
+<br/>
+<sub>May 2026 · JavaScript</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🌐 HTML5**
+<br/>
+![Infosys](https://img.shields.io/badge/Infosys-007CC2?style=flat-square&logo=infosys&logoColor=white)
+<br/>
+<sub>Nov 2025 · HTML5</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**🗣️ British Council Aptis ESOL**
+<br/>
+![British Council](https://img.shields.io/badge/British_Council-CF0A2C?style=flat-square&logoColor=white)
+<br/>
+<sub>Mar 2025 · ID: ESOL~0406244</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Certified Entrepreneurship Instructor**
+<br/>
+![HP LIFE](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)
+<br/>
+<sub>Oct 2024 · Social Entrepreneurship</sub>
+
+</td>
+<td align="center" width="33%">
+
+**💬 Accredited Business Communicator**
+<br/>
+![HP LIFE](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)
+<br/>
+<sub>Oct 2024 · Business Communications</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**💡 Certified Innovation Leader (CIL)**
+<br/>
+![HP LIFE](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)
+<br/>
+<sub>Oct 2024 · Engineering & Leadership</sub>
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Back-end Developer Course**
+<br/>
+![IIE](https://img.shields.io/badge/Indra_Institute_of_Education-F4A300?style=flat-square&logoColor=white)
+<br/>
+<sub>Jul 2024 · ID: IIE/024/2278</sub>
+
+</td>
+<td align="center" width="33%">
+</td>
+</tr>
+</table>
 
 </div>
 
