@@ -209,7 +209,7 @@ const me = {
 
 **🎨 CSS3**
 <br/>
-![Infosys](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
+![Infosys Springboard](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
 <br/>
 <sub>Nov 2025 · CSS</sub>
 
@@ -218,7 +218,7 @@ const me = {
 
 **⚡ JavaScript**
 <br/>
-![Infosys](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
+![Infosys Springboard](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
 <br/>
 <sub>May 2026 · JavaScript</sub>
 
@@ -227,7 +227,7 @@ const me = {
 
 **🌐 HTML5**
 <br/>
-![Infosys](https://img.shields.io/badge/Infosys-007CC2?style=flat-square&logo=infosys&logoColor=white)
+![Infosys Springboard](https://img.shields.io/badge/Infosys_Springboard-007CC2?style=flat-square&logo=infosys&logoColor=white)
 <br/>
 <sub>Nov 2025 · HTML5</sub>
 
@@ -240,7 +240,7 @@ const me = {
 <br/>
 ![British Council](https://img.shields.io/badge/British_Council-CF0A2C?style=flat-square&logoColor=white)
 <br/>
-<sub>Mar 2025 · ID: ESOL~0406244</sub>
+<sub>Mar 2025 · ID: ESOL-0406244</sub>
 
 </td>
 <td align="center" width="33%">
@@ -282,6 +282,9 @@ const me = {
 
 </td>
 <td align="center" width="33%">
+
+<sub>&nbsp;</sub>
+
 </td>
 </tr>
 </table>
