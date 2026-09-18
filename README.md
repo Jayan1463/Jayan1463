@@ -288,21 +288,7 @@ const me = {
 
 </div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 10 · ACTIVITY GRAPH                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayan1463&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jayan1463)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SECTION 11 · SNAKE ANIMATION                                  -->
